@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777524230547",
+    "project_id": "payment-handler-b208e",
+    "storage_bucket": "payment-handler-b208e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777524230547:android:4d53cac134086b3c865066",
+        "android_client_info": {
+          "package_name": "com.priyanshu.payment_handler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777524230547-uq43r6661h188he5j1gcdbpgej736fa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOQyxjDJXdjnFXMGtwT_smUaIZvxi2fFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777524230547-uq43r6661h188he5j1gcdbpgej736fa1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
